@@ -22,10 +22,3 @@ Scientific research demandes useful tools
 
 ## local image
 ![a lion in lights](image/lion-66898_640.jpg)
-
-## summary
-create the repository on the website
-clone the website
-make changees in Githubdesktop
-store the changes
-view the changes made by vscode online
