@@ -11,7 +11,7 @@ learn the basis of Git and github
 -I am looking forward to learning more about Git and Github
 
 ## image
-![A picture of bird on the water]{https://erkesphoto.com/wp-content/uploads/2023/11/20210308_D850_5976-Edit2-sharpened.jpg}
+![A picture of bird on the water](https://erkesphoto.com/wp-content/uploads/2023/11/20210308_D850_5976-Edit2-sharpened.jpg)
 
 ## presentation
 Python and R are very useful in data analysis
