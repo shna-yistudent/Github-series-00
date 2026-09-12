@@ -1,5 +1,6 @@
 # Github-series-00
 learn the basis of Git and github
+readme
 
 ## introduction
 This is  a repository to learn-by-doing the basics of Git nd Github.- 
@@ -20,3 +21,4 @@ Scientific research demandes useful tools
 
 ## local image
 ![a lion in lights](image/lion-66898_640.jpg)
+main
