@@ -20,3 +20,9 @@ Scientific research demandes useful tools
 
 ## local image
 ![a lion in lights](image/lion-66898_640.jpg)
+
+## summary
+edit the codes and storage them in the right branches
+cooperatiion with group members
+check the results and find reasons for misktakes
+create and edit reppository on github desktop and website
