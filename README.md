@@ -2,6 +2,7 @@
 learn the basis of Git and github
 readme
 
+2h used in the asssignment
 ## introduction
 This is  a repository to learn-by-doing the basics of Git nd Github.- 
 
