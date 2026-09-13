@@ -27,4 +27,4 @@ edit the codes and storage them in the right branches
 cooperatiion with group members
 check the results and find reasons for misktakes
 create and edit reppository on github desktop and website
-
+display images in git repository
